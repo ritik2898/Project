@@ -137,4 +137,10 @@
 	.work-portfolio li {
 		width:50%;
 	}
+	.main-nav{
+		margin-top: 20px;
+	}
+	.main-nav li{
+		margin-right: 10px;
+	}
 }
